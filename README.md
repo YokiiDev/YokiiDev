@@ -14,3 +14,4 @@
 - 📫 How to reach me : **Yokii ll#9995** on **Discord**
 
 - ⚡ Fun fact : **I am Funny**
+https://visitor-badge.glitch.me/badge?page_id=YokiiDev.visitor-badge.issue.1
