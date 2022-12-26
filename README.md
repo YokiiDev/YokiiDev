@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Front-web, FiveM and Discord developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
-<p align="left"> <img src="" />https://visitor-badge.glitch.me/badge?page_id=YokiiDev.visitor-badge.issue.1</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Profile%20views&color=0e75b6&style=flat" alt="Yokiidev" /> </p>
 
 - 🔭 I’m currently working on : **Nothing**
 
