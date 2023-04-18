@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on : **Nothing**
 
-- 🌱 I’m currently learning : **Java**
+- 🌱 I’m currently learning : **Python**
 
 - 💬 Ask me about : **Python**, **Lua**, **VB.NET**, **Node.js** and **Discord.js**
 
-- 📫 How to reach me : **Yokii ll#9995** on **Discord**
+- 📫 How to reach me : **Yokii 🍃#2154** on **Discord**
 
 - ⚡ Fun fact : **I am Funny**
