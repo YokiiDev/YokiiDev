@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Profile%20views&color=0e75b6&style=flat" alt="Yokiidev" /> </p>
 
-- 🔭 I’m currently working on : **Nothing**
+- 🔭 I’m currently working on : **Minecraft Server**
 
 - 🌱 I’m currently learning : **Python**
 
