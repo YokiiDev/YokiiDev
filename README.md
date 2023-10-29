@@ -11,6 +11,6 @@
 
 - 💬 Ask me about : **Python**, **Lua**, **VB.NET**, **Node.js** and **Discord.js**
 
-- 📫 How to reach me : **Yokii 🍃#2154** on **Discord**
+- 📫 How to reach me : **dev.yokii** on **Discord**
 
 - ⚡ Fun fact : **I am Funny**
