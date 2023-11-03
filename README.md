@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Profile%20views&color=0e75b6&style=flat" alt="Yokiidev" /> </p>
 
-- 🔭 I’m currently working on : **Minecraft Server**
+- 🔭 I’m currently working on : **My Minecraft Server**
 
 - 🌱 I’m currently learning : **Python**
 
@@ -13,4 +13,4 @@
 
 - 📫 How to reach me : **dev.yokii** on **Discord**
 
-- ⚡ Fun fact : **I am Funny**
+- ⚡ Fun fact : **I love Malabar !**
