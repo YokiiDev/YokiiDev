@@ -9,8 +9,8 @@
 
 - 🌱 I’m currently learning : **Python**
 
-- 💬 Ask me about : **Python**, **Lua**, **VB.NET**, **Node.js** and **Discord.js**
+- 💬 Ask me about : **Python**, **Lua**, **Node.js** and **Discord bot**
 
-- 📫 How to reach me : **dev.yokii** on **Discord**
+- 📫 How to reach me : **y.okii** on **Discord**
 
-- ⚡ Fun fact : **I love Malabar !**
+- ⚡ Fun fact : **I love Malabar**
