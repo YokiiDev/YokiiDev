@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Views&color=midnightblue&style=flat-square" alt="profile views counter" />
+
 ```css
 #wiizzl {
   position: Rouen, France;
