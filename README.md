@@ -1,10 +1,6 @@
-<p align="left">
-  <a href="https://yokiidev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Site-YokiiDev-blue?style=flat&logo=github" alt="Site" />
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Views&color=blue&style=flat" alt="Views" />
-</p>
+<a href="https://yokiidev.github.io">yokiidev.github.io</a>
+
+<img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Views&color=blue&style=flat" alt="Views" />
 
 ```css
 #wiizzl {
