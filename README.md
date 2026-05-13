@@ -4,10 +4,8 @@
 
 ```css
 #wiizzl {
-  position: Rouen, France;
-  height: 175cm;
-  display: boy;
-  animation: growth 20y ease-in;
-  background: friendly;
+  current-project: A Friend?;
+  languages: python, c-family, lua, javascript, front-end stack;
+  passion: code, desing, games;
 }
 ```
