@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Views&color=midnightblue&style=flat-square" alt="profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Views&color=blue&style=for-the-badge" alt="Views Counter" />
 
 ```css
 #wiizzl {
